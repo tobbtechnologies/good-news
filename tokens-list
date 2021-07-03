@@ -40,6 +40,14 @@
       "logoURI": "https://etherscan.io/token/images/alzheimer_32.png",
       "name": "AlzheimerCoin",
       "symbol": "ALZ"
+     },
+    {
+      "chainId": 1,
+      "address": "0xD5e2A54Fef5f9E4A6b21EC646Bbed7A160a00F18",
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/pTB8kWMC/logo-Copy.png",
+      "name": "BeforeCoinMarketCap",
+      "symbol": "BCMC1"
      }
   ],
   "version": {
